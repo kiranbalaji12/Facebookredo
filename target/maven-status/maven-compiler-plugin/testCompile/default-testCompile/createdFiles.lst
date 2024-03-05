@@ -1,0 +1,5 @@
+signupFb\Hooks.class
+com\facebook\basefunction\BaseClass.class
+com\facebook\locators\SignupLocators.class
+com\facebook\runner\TestRunner.class
+signupFb\SignupFunction.class
